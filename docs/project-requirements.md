@@ -1,12 +1,12 @@
 # Requirements for the backend solution
 This doc will house the requirements that the backend solution should eventually hit.
 
-[] [Auditable](#Auditable)
-[] [Authenticated](#Authenticated)
-[] [Containerized](#Containerized)
-[] [Encrypted at rest](#EAR)
-[] [Encrypted in transit](#EIT)
-[] [Versioned](#Versioned)
+- [ ] [Auditable](#Auditable)
+- [ ] [Authenticated](#Authenticated)
+- [ ] [Containerized](#Containerized)
+- [ ] [Encrypted at rest](#EAR)
+- [ ] [Encrypted in transit](#EIT)
+- [ ] [Versioned](#Versioned)
 
 ## Auditable
 The changes made to the state file should be logged in a way that allows a user to see what has happened to the file. This should include which identity made the change and what the change was.
